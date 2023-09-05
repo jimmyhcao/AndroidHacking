@@ -5,7 +5,7 @@
 <h2>Description</h2>
 Social Engineering Toolkit (SET) is a powerful open-source tool included in Kali Linux for conducting various social engineering attacks and penetration testing. One of its features is the ability to generate QR codes for Android devices to facilitate the execution of certain attacks. It's important to note that SET should only be used for ethical and legal purposes, such as testing the security of your own systems or with explicit consent from the owner.
 
-<br />Here's a description of how to use SET in Kali Linux to create a QR code for an Android device:
+<br />Here's a description of how to use SET in Kali Linux to create a malicious QR code for an Android device:
 
 
 <h2>Tools Used </h2>
@@ -23,12 +23,12 @@ Launch Kali Linux and Open SET: <br/>
 <img src="https://i.imgur.com/qumuHyz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select social engineering attacks (1):  <br/>
+<img src="https://i.imgur.com/tIWtXDZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select website attack vectors (2): <br/>
+<img src="https://i.imgur.com/stHPYUU.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
