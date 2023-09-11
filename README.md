@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/QLil4X2mBws)
 
 <h2>Description</h2>
-Social Engineering Toolkit (SET) is a powerful open-source tool included in Kali Linux for conducting various social engineering attacks and penetration testing. One of its features is the ability to generate clone sites to harvest log in credentials from unsuspecting users. It's important to note that SET should only be used for ethical and legal purposes, such as testing the security of your own systems or with explicit consent from the owner. This is the first part of a 2-part demonstration of how to use SET.
+Social Engineering Toolkit (SET) is a powerful open-source tool included in Kali Linux for conducting various social engineering attacks and penetration testing. One of its features is the ability to generate clone sites to harvest log in credentials from unsuspecting users. It's important to note that SET should only be used for ethical and legal purposes, such as testing the security of your own systems or with explicit consent from the owner. 
 
 <br />Here's a description of how to use SET in Kali Linux to create a credential harvesting site:
 
